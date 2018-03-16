@@ -1,0 +1,1 @@
+Hallo, Saya mau belajar mengenai web performance
